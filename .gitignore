@@ -1,0 +1,20 @@
+﻿# Virtual Environments & Bytecode
+venv*/
+f5-env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Model Weights & Checkpoints
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Runtime Logs, Backups & Temp Audio
+*.log
+*.bak
+voices/_*.wav
+chronicles/*.md
+config/story_state.json

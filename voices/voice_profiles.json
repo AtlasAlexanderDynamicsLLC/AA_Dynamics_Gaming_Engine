@@ -1,0 +1,37 @@
+{
+    "Geologist / Navigator": {
+        "ref_audio_path": "E:\\SovereignEngine\\AA_Dynamics_Gaming_Engine\\voices\\geologist.wav",
+        "ref_text": "Radar Lock confirmed. Target Orvang Centre is 40 blocks southwest at depth level 60.",
+        "speed": 1.02
+    },
+    "Wayfinder / Map Specialist": {
+        "ref_audio_path": "E:\\SovereignEngine\\AA_Dynamics_Gaming_Engine\\voices\\wayfinder.wav",
+        "ref_text": "Waypoint locked on your map. Bear north-northwest across the ridge. We're entering a high humidity biome 200 blocks out.",
+        "speed": 1.02
+    },
+    "Chief Industrial Planner": {
+        "ref_audio_path": "E:\\SovereignEngine\\AA_Dynamics_Gaming_Engine\\voices\\planner.wav",
+        "ref_text": "Production schedule updated. Electric blast furnace and high-voltage chemical reactor are operating nominal.",
+        "speed": 1.0
+    },
+    "Weapon / Armor / Tool Specialist": {
+        "ref_audio_path": "E:\\SovereignEngine\\AA_Dynamics_Gaming_Engine\\voices\\armorer.wav",
+        "ref_text": "Hold up on that alloy. Your blast furnace isn't rated for steel yet, so swap in a rod iron tool rod and level the pickaxe first.",
+        "speed": 1.0
+    },
+    "Combat Specialist": {
+        "ref_audio_path": "E:\\SovereignEngine\\AA_Dynamics_Gaming_Engine\\voices\\combat.wav",
+        "ref_text": "Watch your spacing! You're dropping speed in tight terrain. Kiteback, get blocks between you and that infernal mob, and heal up.",
+        "speed": 1.05
+    },
+    "Safety & Voltage Officer": {
+        "ref_audio_path": "E:\\SovereignEngine\\AA_Dynamics_Gaming_Engine\\voices\\safety.wav",
+        "ref_text": "Warning, high voltage amperage hazard detected on the main power line. Isolate the machine hull immediately.",
+        "speed": 1.04
+    },
+    "Story Chronicler": {
+        "ref_audio_path": "E:\\SovereignEngine\\AA_Dynamics_Gaming_Engine\\voices\\chronicler.wav",
+        "ref_text": "The wind howled across the dark frontier as the lone builder laid the first stone of the new settlement.",
+        "speed": 0.96
+    }
+}

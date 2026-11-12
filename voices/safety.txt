@@ -1,0 +1,1 @@
+Warning, high voltage amperage hazard detected on the main power line. Isolate the machine hull immediately.

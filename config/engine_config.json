@@ -1,0 +1,12 @@
+{
+    "engine_name": "AA Dynamics Gaming Engine \u2014 GTNH 2.9.0",
+    "telemetry_host": "127.0.0.1",
+    "telemetry_tcp_port": 8765,
+    "llm_host": "127.0.0.1",
+    "llm_port": 1234,
+    "vision_port": 1235,
+    "gtnh_instance_dir": "C:\\Users\\Atlas 2.0\\AppData\\Roaming\\PrismLauncher\\instances\\GT_New_Horizons_2.9.0_Java_17-26\\.minecraft",
+    "auto_alert_safety_crew": true,
+    "prism_instance_name": "GT_New_Horizons_2.9.0_Java_17-26",
+    "gtnh_mods_dir": "C:\\Users\\Atlas 2.0\\AppData\\Roaming\\PrismLauncher\\instances\\GT_New_Horizons_2.9.0_Java_17-26\\.minecraft\\mods"
+}

@@ -1,0 +1,135 @@
+{
+  "next_id": 6,
+  "tasks": [
+    {
+      "id": 5,
+      "title": "Mine 500 copper",
+      "category": "⛏️ Mining & Extraction",
+      "lead_specialist": "Geologist / Navigator",
+      "done": false,
+      "active": true,
+      "created_at": "22:39",
+      "subtasks": []
+    },
+    {
+      "id": 4,
+      "title": "build electric blast furnace",
+      "category": "🏭 Machines & Metallurgy",
+      "lead_specialist": "Chief Industrial Planner",
+      "done": false,
+      "active": false,
+      "created_at": "21:54",
+      "subtasks": [
+        {
+          "text": "Mine 600 Iron & Copper Ore for LV Machine Hulls & Cupronickel Coils",
+          "done": false
+        },
+        {
+          "text": "Mine Nickel / Garnierite Vein for 16x Cupronickel Coil Blocks",
+          "done": false
+        },
+        {
+          "text": "Batch-craft 4x LV Energy Hatches, Maintenance Hatch & Muffler Hatch",
+          "done": false
+        },
+        {
+          "text": "Assemble 3x3x4 Electric Blast Furnace Multiblock",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Mine 500 Copper & Cassiterite Ore for LV Circuits",
+      "category": "⛏️ Mining & Extraction",
+      "lead_specialist": "Geologist / Navigator",
+      "done": false,
+      "active": false,
+      "created_at": "21:53",
+      "subtasks": [
+        {
+          "text": "Mine 500 Copper Ore (Chalcopyrite / Tetrahedrite vein)",
+          "done": false
+        },
+        {
+          "text": "Mine 200 Tin & Redstone Ore (Cassiterite & Cinnabar/Redstone)",
+          "done": false
+        },
+        {
+          "text": "Tap Rubber Trees for Sticky Resin -> Smelt Raw Rubber Pulp",
+          "done": false
+        },
+        {
+          "text": "Craft 1x Copper Cables & Red Alloy Wires (Wiremill / Forge Hammer)",
+          "done": false
+        },
+        {
+          "text": "Assemble Coated Circuit Boards + Vacuum Tubes + Resistors",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mine 500 Copper & Cassiterite Ore for LV Circuits",
+      "category": "⛏️ Mining & Extraction",
+      "lead_specialist": "Geologist / Navigator",
+      "done": false,
+      "active": false,
+      "created_at": "21:52",
+      "subtasks": [
+        {
+          "text": "Mine 500 Copper Ore (Chalcopyrite / Tetrahedrite vein)",
+          "done": false
+        },
+        {
+          "text": "Mine 200 Tin & Redstone Ore (Cassiterite & Cinnabar/Redstone)",
+          "done": false
+        },
+        {
+          "text": "Tap Rubber Trees for Sticky Resin -> Smelt Raw Rubber Pulp",
+          "done": false
+        },
+        {
+          "text": "Craft 1x Copper Cables & Red Alloy Wires (Wiremill / Forge Hammer)",
+          "done": false
+        },
+        {
+          "text": "Assemble Coated Circuit Boards + Vacuum Tubes + Resistors",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Mine 500 Copper & Cassiterite Ore for LV Circuits",
+      "category": "⛏️ Mining & Extraction",
+      "lead_specialist": "Geologist / Navigator",
+      "done": false,
+      "active": false,
+      "created_at": "21:15",
+      "subtasks": [
+        {
+          "text": "Mine 500 Copper Ore (Chalcopyrite / Tetrahedrite vein)",
+          "done": false
+        },
+        {
+          "text": "Mine 200 Tin & Redstone Ore (Cassiterite & Cinnabar/Redstone)",
+          "done": false
+        },
+        {
+          "text": "Tap Rubber Trees for Sticky Resin -> Smelt Raw Rubber Pulp",
+          "done": false
+        },
+        {
+          "text": "Craft 1x Copper Cables & Red Alloy Wires (Wiremill / Forge Hammer)",
+          "done": false
+        },
+        {
+          "text": "Assemble Coated Circuit Boards + Vacuum Tubes + Resistors",
+          "done": false
+        }
+      ]
+    }
+  ]
+}
